@@ -1,7 +1,7 @@
 Neogcamp-Functional-Programming-Exercises
 
-|Sr. No|FP Exercise|
-|:-----:|:--------:|
+|Sr. No|FP Exercise| Description |
+|:-----:|:--------:| :--------:|
 |1| https://replit.com/@robinhooda/q1-homework#index.js | find the sum of all numbers at odd index in the array
 |2| https://replit.com/@robinhooda/q2-homework-#index.js | 
 |3| https://replit.com/@robinhooda/q3-homework#index.js | find the biggest of all numbers in the array
